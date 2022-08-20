@@ -5,7 +5,7 @@ fi
 echo "Creation of a new project"
 echo "to be hosted on URL ==> $1"
 # Initialize new repo
-echo "#Project title" >README.md
+echo "# Project title" >README.md
 
 touch LICENSE.md
 echo "# Authors \n - Lucas RODRIGUEZ" >AUTHORS.md
